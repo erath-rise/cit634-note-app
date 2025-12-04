@@ -2,7 +2,7 @@
 //  MyNoteApp.swift
 //  MyNote
 //
-//  Created by 阿邓 on 14/11/2025.
+//  Created by YINGLIAN DENG on 14/11/2025.
 //
 
 import SwiftUI
